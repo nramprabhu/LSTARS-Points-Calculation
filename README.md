@@ -1,1 +1,1 @@
-Usage : ./readcsv <scorecard csv file> 
+Usage : ./readcsv scorecard.csv
